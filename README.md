@@ -1,2 +1,2 @@
 # repo-github
-Belajar Github
+Belajar github
